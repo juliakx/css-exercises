@@ -1,1 +1,6 @@
 /* Add CSS Styling */
+
+.odd {background-color: lightpink; font-family: "Verdana", "DejaVu Sans", sans-serif;}
+#unique1 {color: blue; font-size: 36px;}
+#unique2 {background-color: lightgreen; font-size: 24px; font-weight: bold;}
+.odd.better {font-size: 24px;}
